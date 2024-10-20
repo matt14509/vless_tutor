@@ -1,0 +1,11 @@
+{
+    "custom": "{\"rules\": []}",
+    "def_outbound": "bypass",
+    "direct_dns": "https://doh.pub/dns-query",
+    "dns_final_out": "proxy",
+    "dns_routing": true,
+    "proxy_domain": "geosite:youtube\ndomain:discord-attachments-uploads-prd.storage.googleapis.com\ndomain:dis.gd\ndomain:i.dis.gd\ndomain:discord.co\ndomain:discord.com\ndomain:discord.design\ndomain:discord.dev\ndomain:discord.gg\ndomain:discord.gift\ndomain:discord.gifts\ndomain:discord.media\ndomain:discord.new\ndomain:discord.store\ndomain:discord.tools\ndomain:discordapp.com\ndomain:discordapp.net\ndomain:discordmerch.com\ndomain:discordpartygames.com\ndomain:discord-activities.com\ndomain:discordactivities.com\ndomain:discordsays.com\ndomain:discordsez.com\ndomain:discordstatus.com\ndomain:chatgpt.com\ndomain:x.com\ndomain:twitter.com\ndomain:twimg.com\ndomain:instagram.com\ndomain:cdninstagram.com",
+    "remote_dns": "https://dns.google/dns-query",
+    "sniffing_mode": 1,
+    "use_dns_object": false
+}
