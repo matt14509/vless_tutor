@@ -20,9 +20,7 @@
 Режим подслушивания: Подслушивать до маршрутизации
 ![изображение](https://github.com/user-attachments/assets/00252986-4077-436e-b064-3f2a39af5698)
 
-
-В базоых маршрутах вставлете [домены](https://github.com/matt14509/vless_tutor/blob/main/client_tutor/proxy_domains.txt) в среднию колонку, окно снизу
-и ставите outbound по-умолчанию: bypass
+В базовых маршрутах вставляете [домены](https://github.com/matt14509/vless_tutor/blob/main/client_tutor/proxy_domains.txt) в среднюю колонку, окно снизу и ставите outbound по-умолчанию: bypass
 
 ![изображение](https://github.com/user-attachments/assets/3b0c34d4-9756-4d9a-bf65-242c3d391baa)
 
