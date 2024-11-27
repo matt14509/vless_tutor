@@ -1,11 +1,10 @@
 {
-    "custom": "{\"rules\":[]}",
+    "custom": "{\"rules\": []}",
     "def_outbound": "bypass",
-    "direct_dns": "https://223.5.5.5/dns-query",
-    "direct_domain": "\n",
+    "direct_dns": "https://doh.pub/dns-query",
     "dns_final_out": "proxy",
     "dns_routing": true,
-    "proxy_domain": "geosite:youtube\ngeosite:discord\ndomain:chatgpt.com\ndomain:4pda.to\ndomain:ntc.party\ngeosite:pixiv\ngeosite:instagram\ngeosite:twitter\ndomain:habr.com",
+    "proxy_domain": "geosite:youtube\ngeosite:discord\ngeosite:openai\ndomain:4pda.to\ndomain:ntc.party\ngeosite:pixiv\ngeosite:instagram\ngeosite:twitter\ndomain:speedtest.net\ngeosite:soundcloud\ngeosite:protonmail\ngeosite:archive\ndomain:amnezia.org\n",
     "remote_dns": "https://dns.google/dns-query",
     "sniffing_mode": 1,
     "use_dns_object": false

@@ -1,13 +1,12 @@
 {
     "active_routing": "Default",
-    "check_include_pre": true,
+    "check_include_pre": false,
     "conn_stat": false,
     "core_box_clash_api": -9090,
     "current_group": 0,
     "custom_inbound": "{\"inbounds\": []}",
-    "custom_route": "{\"rules\":[{\"domain_suffix\":[\"2ip.ru\",\"discord-attachments-uploads-prd.storage.googleapis.com\"],\"outbound\":\"proxy\"},{\"outbound\":\"proxy\",\"process_name\":[\"Discord.exe\"]},{\"geosite\":[\"youtube\",\"instagram\"],\"outbound\":\"proxy\"},{\"domain_keyword\":[\"youtube\",\"instagram\",\"ggpht\",\"yt.be\",\"ytimg.com\",\"googleapis.com\",\"insta\"],\"outbound\":\"proxy\"}]}",
+    "custom_route": "{\"rules\": []}",
     "extraCore": {
-        "core_map": "{\"hysteria2\":\"\",\"naive\":\"\",\"tuic\":\"\"}"
     },
     "fakedns": false,
     "inbound_address": "127.0.0.1",
@@ -41,7 +40,7 @@
     "test_url_dl": "http://cachefly.cachefly.net/10mb.test",
     "theme": "0",
     "traffic_loop_interval": 1000,
-    "vpn_bypass_process": "Discord.exe\n",
+    "vpn_bypass_process": "Discord.exe\nmsedge.exe\n\ntor.exe\nlyrebird.exe\nfirefoxx.exe\nconjure-client.exe\nsnowflake-client.exe",
     "vpn_hide_console": true,
     "vpn_impl": 1,
     "vpn_internal_tun": true,
